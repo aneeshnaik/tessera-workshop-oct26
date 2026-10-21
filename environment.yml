@@ -1,0 +1,15 @@
+channels:
+  - conda-forge
+dependencies:
+  - python==3.14
+  - numpy
+  - rasterio
+  - xarray
+  - matplotlib
+  - scipy
+  - geopandas
+  - ipykernel
+  - jupyter
+  - pip
+  - pip:
+    - geotessera
