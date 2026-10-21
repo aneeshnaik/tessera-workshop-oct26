@@ -1,0 +1,18 @@
+# conda environment
+.conda/
+
+# VSCode stuff
+*.code-workspace
+.vscode/
+
+# python/jupyter stuff
+__pycache__/
+*.py[codz]
+*$py.class
+.ipynb_checkpoints
+profile_default/
+ipython_config.py
+*.egg-info
+
+# macOS stuff
+*.DS_Store
