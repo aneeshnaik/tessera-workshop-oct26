@@ -16,3 +16,6 @@ ipython_config.py
 
 # macOS stuff
 *.DS_Store
+
+# notebook outputs (downloaded tiles, exports)
+data/
