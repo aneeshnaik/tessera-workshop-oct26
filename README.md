@@ -1,5 +1,6 @@
 # tessera-workshop-oct26
 
+The demo notebook is in `geotessera_demo.ipynb`
 
 ## Dependencies
 
